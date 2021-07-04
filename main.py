@@ -1,6 +1,7 @@
 from random import randint
 import tkinter
 # importing modules
+# tkinter is not used in this version, but I hope to update this command based code to an image based GUI at some point.
 
 Stop = False
 
